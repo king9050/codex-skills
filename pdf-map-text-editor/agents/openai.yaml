@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Map Text Editor"
+  short_description: "Edit map PDF text with style-aware overlays"
+  default_prompt: "Use $pdf-map-text-editor to scan this map PDF, infer nearby text style, and add or modify text at the requested positions."
